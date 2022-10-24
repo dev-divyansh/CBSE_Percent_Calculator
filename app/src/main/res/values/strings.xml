@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CBSE Percent Calc</string>
+    <string name="message">CBSE Percentage Calculator</string>
+    <string name="sub1">Subject 1 Marks</string>
+    <string name="sub2">Subject 2 Marks</string>
+    <string name="sub3">Subject 3 marks</string>
+    <string name="sub4">Subject 4 marks</string>
+    <string name="sub5">Subject 5 marks</string>
+    <string name="message1">enter marks obtained in  subjects below to get your percentage</string>
+</resources>
